@@ -3126,6 +3126,9 @@ namespace HelloXamarinApp
 		public partial class String
 		{
 			
+			// aapt resource value: 0x7f090029
+			public const int Hello = 2131296297;
+			
 			// aapt resource value: 0x7f090000
 			public const int abc_action_bar_home_description = 2131296256;
 			
